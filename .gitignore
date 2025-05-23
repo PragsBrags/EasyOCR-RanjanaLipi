@@ -1,4 +1,4 @@
-**/saved_models/*
+
 **/data_lmdb_release/*
 **/image_release/*
 **/result/*
@@ -206,3 +206,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#data
+images/
+test/
